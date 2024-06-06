@@ -1,0 +1,2 @@
+from keyboards.admin_Inline_kb import admin_panel,schools,time_and_days,get_groups,back_kb,is_right,kb_for_edit_child,edit_kb,moderate_bot_kb
+from keyboards.admin_keyboard import kb_agrement
